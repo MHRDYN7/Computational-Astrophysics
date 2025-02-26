@@ -1,0 +1,11 @@
+matplotlib
+jax
+numpy
+pandas
+scipy
+astropy
+spectral-cube
+astroquery
+astroML
+paperswithcode-client
+python-dotenv
